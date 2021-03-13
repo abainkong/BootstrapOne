@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: cursive;
+}
+
+h1, 
+h2, 
+h3, 
+h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/* nav bar  */
+.nav-bar{
+    background: rgb(37, 162, 167);
+}
+
+/* First section */
+
+.customize-section{
+    background: rgba(180, 180, 180, 0.693);
+}
+
+
+/* testimonials */
+.testimonials-section{
+    background: rgba(240, 240, 230, 0.967);
+}
+
+
+/* Main section */
+.main-section{
+    background: rgba(180, 180, 180, 0.693);
+}
